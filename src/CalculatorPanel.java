@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 /**
  * The calculator panel
  *
- * @author Carl Mooney -- change to your name
+ * @author Hazel Vuong
  */
 public class CalculatorPanel extends JPanel implements ButtonConstants {
     private final int CALC_WIDTH = 265;

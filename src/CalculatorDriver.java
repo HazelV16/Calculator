@@ -3,7 +3,7 @@ import javax.swing.*;
 /*
  * Driver Class for the Calculator
  *
- * @author Carl Mooney
+ * @author Hazel Vuong
  */
 public class CalculatorDriver {
 
